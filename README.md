@@ -1,6 +1,8 @@
 # URL Shortener Web Project
 
-## Technologies
+
+
+![alt text]([http://url/to/img.png](https://miro.medium.com/max/1200/1*1iL-27docce-KY9rknFexg.png))
 
 - ### Back end
 
