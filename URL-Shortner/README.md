@@ -1,5 +1,5 @@
 <h1 align="center">
-  URL-Shortner
+  URL Shortener Project using Huffman Encoding
 </h1>
 
-<h4 align="center">Creating custom URL shortener With Nodejs</h4>
+<h4 align="center">Used Nodejs</h4>
