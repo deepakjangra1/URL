@@ -1,8 +1,4 @@
-# URL
-URL Shortener Web Project
-
-
-<img src="sketch/architecture.png" alt="architecture" />
+# URL Shortener Web Project
 
 ## Technologies
 
